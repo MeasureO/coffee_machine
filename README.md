@@ -1,2 +1,2 @@
 # coffee_machine
-Example of coffe machine logic
+Example of coffee machine logic (OOP)
